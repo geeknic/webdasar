@@ -27,7 +27,6 @@
         if(!empty($_POST["submit"]) && $_POST["submit"] == "Submit") {
             hello($_POST['nama']);
         }
-    
     ?>
 </body>
 </html>
